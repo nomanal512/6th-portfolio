@@ -15,6 +15,38 @@ nav-title {
     font-size: 45px;
 
 }
+.section-title{
+    font-size: 35px;
+    color: black;
+
+}
+.section-discription{
+    font-size: 18px;
+    color: #757575;
+}
+.sec-bg{
+    background-color: #FFF8F3;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
+.item-description{
+    font-weight: 600;
+}
+.item-title{
+    color: #757575;
+}
 
 .btn-primary {
     background-color: #FD6E0A;
